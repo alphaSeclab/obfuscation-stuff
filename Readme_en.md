@@ -268,7 +268,7 @@
 
 - 2019.10 [HackersOnBoard] [Black Hat USA 2017 Revoke Obfuscation PowerShell Obfuscation Detection And Evasion Using Science](https://www.youtube.com/watch?v=7gBkczIWvUo)
 - 2019.07 [PowerShellConferenceEU] [Daniel Bohannon - PesterSec: Using Pester & ScriptAnalyzer to Detect Obfuscated PowerShell](https://www.youtube.com/watch?v=qYgCLzBaVaw)
-- 2019.06 [beny] [Weaponization: Howto Fully Undetectable Empire Powershell MS macro (VBA obfuscation & Stomping)](https://www.peerlyst.com/posts/weaponization-howto-fully-undetectable-empire-powershell-ms-macro-vba-obfuscation-and-stomping-beny-bertin)
+- 2019.06 [beny] [Weaponization: Howto Fully Undetectable Empire Powershell MS macro (VBA obfuscation & Stomping)](https://gacksecurity.blogspot.com/2020/08/weaponization-howto-fully-undetectable.html)
 - 2019.04 [arxiv] [[1904.10270] PowerDrive: Accurate De-Obfuscation and Analysis of PowerShell Malware](https://arxiv.org/abs/1904.10270)
 - 2019.03 [xednaps] [WannaMine dropper – Powershell Obfuscation](https://www.xednaps.com/2019/03/26/wannamine-dropper-powershell-obfuscation/)
 - 2019.01 [sans] ["Invoke Obfuscation: PowerShell obFUsk8tion Techniques & How To (Try To) D""e'Tec'T 'Th'+'em' "](https://www.sans.org/cyber-security-summit/archives/file/summit_archive_1492186586.pdf)
